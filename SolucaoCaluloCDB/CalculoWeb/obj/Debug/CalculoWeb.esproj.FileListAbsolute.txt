@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\SolucaoCaluloCDB\CalculoWeb\obj\Debug\CalculoWeb.esproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CalculoWebApp\SolucaoCaluloCDB\CalculoWeb\obj\Debug\CalculoWeb.esproj.CoreCompileInputs.cache

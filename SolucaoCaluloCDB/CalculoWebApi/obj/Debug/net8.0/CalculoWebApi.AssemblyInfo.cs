@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculoWebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+748fe87227b42b86555aa17b43fba710f02ab1e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+571412b64194169f23a1be523e808baa14242eac")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculoWebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculoWebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

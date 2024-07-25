@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CalculoDomain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+571412b64194169f23a1be523e808baa14242eac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e91be88371637c937079a5c91f4119ff59339892")]
 [assembly: System.Reflection.AssemblyProductAttribute("CalculoDomain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CalculoDomain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
